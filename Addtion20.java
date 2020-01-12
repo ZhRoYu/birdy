@@ -11,6 +11,5 @@ public class Addtion20 {
 				break;
 			}
 		}
-		System.out.println("当前数为"+i);
 	}
 }
